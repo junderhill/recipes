@@ -24,6 +24,8 @@ to cook the Lamb;
 * 1 tbsp finely chopped mint
 * 1 tbsp finely chopped coriander
 
+* Spinach
+
 for the rice;
 
 * 500gms basmati rice washed & drained
@@ -49,3 +51,5 @@ for the rice;
 14. Drizzle safron water on top, chopped mint and leftover butter.
 15. Cover and cook for 20-25 minutes. 
 16. Garnish with corriander.
+
+__OPTIONAL - Cook half of all the spices/onion/garlic etc. in a seperate pan. Add spinch - When layering, Rice, Lamb, Spinach, Rice__
